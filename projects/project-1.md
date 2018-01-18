@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Project 1.png
+image: images/Project1.png
 title: Birdo Does a Fly
 permalink: projects/birdo
 # All dates must be YYYY-MM-DD format!
