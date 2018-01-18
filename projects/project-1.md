@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Project1.png
 title: Birdo Does a Fly
-permalink: projects/birdo
+permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-04
 labels:
