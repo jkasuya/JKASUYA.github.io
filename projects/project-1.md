@@ -18,7 +18,7 @@ summary: My partner and I developed a "Temple Run" kind of game that follows a b
 
 Birdo does a Fly is a "Temple Run" like game that involves a bird having to jump or duck under obstacles to avoid being captured by a fox. The game randomly selects either a rock or a vine that the player will have to jump over or slide under to avoid being captured by a fox. The player either has to press 'W' to jump or 'S' to slide. Each object has a specific hitbox that was calculated based on the dimensions of the image, so the keys have to be pressed at the correct time to avoid colliding with the hitboxes.
 
-This was a group project. My parter for this project was Matthew Yamaguchi. My specific role on this project was to create the hitboxes for the objects and the bird. I was also responsible for randomizing the obstacles. It was a lot of trial and error, as the bird died too early in some cases, and didn't die at all in other cases.
+This was a group project. My partner for this project was Matthew Yamaguchi. My specific role on this project was to create the hitboxes for the objects and the bird. I was also responsible for randomizing the obstacles. It was a lot of trial and error, as the bird died too early in some cases, and didn't die at all in other cases.
 
 Here is some code that illustrates how the hitboxes were calculated:
 
