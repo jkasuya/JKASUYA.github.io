@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/Project 1.png
+title: Birdo Does a Fly
+permalink: projects/birdo
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-12-04
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - ICS 111
+summary: My partner and I developed a "Temple Run" kind of game that follows a bird trying to escape a fox.
 ---
 
 <div class="ui small rounded images">
