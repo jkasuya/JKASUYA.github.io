@@ -5,7 +5,7 @@ image: images/Sudoku.png
 title: Recursive Sudoku Solver
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-03-17
 labels:
   - Java
   - ICS 211
