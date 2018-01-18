@@ -13,9 +13,9 @@ labels:
 summary: A resursive sudoku solver that will take minutes to solve even the hardest possible sudoku problem.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+The Recursive Sudoku Solver was a program I created in ICS 211, in the Spring 2017 semester. The project helped me to learn how recursion can be used as a trial and error to create solutions for certain problems. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This project was very frustrating as it took a lot of understanding of recursive algorithms
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
