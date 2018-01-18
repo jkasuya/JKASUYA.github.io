@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Calculator.jpeg
+title: Postfix Calculator
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-03-03
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - ICS 211
+summary: A calculator that takes in postfix expressions and solves them
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
