@@ -9,16 +9,11 @@ date: 2017-03-17
 labels:
   - Java
   - ICS 211
-  - Eclipse
 summary: A resursive sudoku solver that will take minutes to solve even the hardest possible sudoku problem.
 ---
 
-The Recursive Sudoku Solver was a program I created in ICS 211, in the Spring 2017 semester. The project helped me to learn how recursion can be used as a trial and error to create solutions for certain problems. 
+The Recursive Sudoku Solver was a program I created in ICS 211, in the Spring 2017 semester. The project helped me to learn how recursion can be used as a trial and error to create solutions for certain problems.  It also helped me to learn about debugging recursive algorithms, and testing for speed.
 
-This project was very frustrating as it took a lot of understanding of recursive algorithms
+This project was very frustrating as it took a lot of understanding of recursive algorithms. The most challenging part of this assignment was to get the algorithm to run fast. This project is the final version of many. It would take hours for the hard and almost impossible sudoku problems to solve, but this version will solve them in minutes. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
