@@ -16,4 +16,4 @@ The Recursive Sudoku Solver was a program I created in ICS 211, in the Spring 20
 
 This project was very frustrating as it took a lot of understanding of recursive algorithms. The most challenging part of this assignment was to get the algorithm to run fast. This project is the final version of many. It would take hours for the hard and almost impossible sudoku problems to solve, but this version will solve them in minutes. 
 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/jkasuya/RecursiveSudoku"><i class="large github icon"></i>jkasuya/RecursiveSudoku</a>
