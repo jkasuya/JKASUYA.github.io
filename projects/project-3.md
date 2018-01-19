@@ -13,5 +13,5 @@ summary: A calculator that takes in postfix expressions and solves them
 ---
 
 
-Source: <a href="https://github.com/jkasuya/PostfixCalculator"><i class="large github icon "></i>jogarces/PostfixCalculator</a>
+Source: <a href="https://github.com/jkasuya/PostfixCalculator"><i class="large github icon "></i>jkasuya/PostfixCalculator</a>
 
