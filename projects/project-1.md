@@ -32,6 +32,8 @@ if (bush.didHit(bird.getWalkX() - 77, bird.getWalkY() - 88)
 					alive = false;
 ```
 
+Source: <a href="https://github.com/jkasuya/ICS111FinalProject"><i class="large github icon"></i>jkasuya/ICS111FinalProject</a>
+
 
 
 
