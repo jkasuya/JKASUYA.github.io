@@ -9,8 +9,7 @@ labels:
   - Software Engineering
   -
 ---
-
-<img class="ui medium right floated rounded image" src="../images/Questions.jpg">
+<img class="ui large floated rounded image" src="../images/Questions.jpg">
 
 ## Good vs. Bad Questions
 Just the other day, I was sitting in one of my lecture classes. The professor said "Gosh, I can't remember when I had a class that asked so many good questions". Most if not all teachers are always encouraging their students to ask questions, saying things like "No question is ever a bad question, so don't be afraid to ask". However, in the article <a href="http://www.catb.org/esr/faqs/smart-questions.html"> How To Ask Questions the Smart Way</a>, while there may not be such a thing as a bad question, as shown, there are many bad ways to phrase a question.
