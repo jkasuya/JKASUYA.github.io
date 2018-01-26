@@ -10,6 +10,8 @@ labels:
   -
 ---
 
+<img class="ui medium right floated rounded image" src="../images/Questions.jpg">
+
 ## Good vs. Bad Questions
 Just the other day, I was sitting in one of my lecture classes. The professor said "Gosh, I can't remember when I had a class that asked so many good questions". Most if not all teachers are always encouraging their students to ask questions, saying things like "No question is ever a bad question, so don't be afraid to ask". However, in the article <a href="http://www.catb.org/esr/faqs/smart-questions.html"> How To Ask Questions the Smart Way</a>, while there may not be such a thing as a bad question, as shown, there are many bad ways to phrase a question.
 
@@ -37,4 +39,3 @@ Not all questions on Stack Overflow are bad questions however. Many users actual
 ## The Verdict
 Asking good questions isn't only useful for programming situations, it could be a huge time saver in everyday life situations. The next time you are in a class and you want to find out how to do problem 1, instead of asking "How do I do Problem 1?", think about a better way of asking "How can I specifically use this formula to solve Problem 1?". This will not only make the answer to the question much more specific and efficient, but it will usually almost always be a question someone else has. Good questions can make everyone's life easier.
 
-<img class="ui medium right floated rounded image" src="../images/JavaScript_logo_web.jpg">
