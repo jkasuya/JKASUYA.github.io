@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - ESLint
 ---
-  <img class="ui image" src="../images/ESLINT.png">
+  <img class="ui image" src="../images/Greencheck.jpg">
 
 ## Coding Standards: An Introduction
 Everyone loves seeing a green checkmark on something. Usually, that signifies a type of accomplishment and people feel a lot of personal satisfaction. In terms of programming, a green checkmark appears in the IntelliJ IDE when all the coding standards are met. Imagine a beginning programmer seeing a green checkmark saying that their code is great. It would give a lot of reassurance to them. However, most beginning programmers often aren't taught the importance of coding standards. At that stage in time, all they really want is for their code to work properly. In fact, even for me, all I really cared about up until this point in my coding career was getting my code to run properly. What these beginning programmers don't realize however, is that coding standards are very useful when trying to analyze their code for bugs. Coding standards offer easy readability, and (depending on the software used) might even give hints to some of the bugs in your code. In that way, as much of a pain as it may be, coding standards offer very important insights into your code.
