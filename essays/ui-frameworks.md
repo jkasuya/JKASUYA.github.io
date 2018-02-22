@@ -23,4 +23,7 @@ The biggest challenge, however, comes from having to learn the keywords and what
 <div class="ui container"></div>
 ```
 
-There are many other class names that are similar to this. For example, one can add the keyword "fluid" to the above class to create a container that would encompass the entire page. Also, one could create a custom subclass that could then be styled using CSS. Luckily, Semantic UI has a 
+There are many other class names that are similar to this. For example, one can add the keyword "fluid" to the above class to create a container that would encompass the entire page. Also, one could create a custom subclass that could then be styled using CSS. Luckily, Semantic UI has a website that gives the source code that can be used to implement all of its features. This is very helpful when trying to find the specific function that Semantic UI has to offer.
+
+## Semantic UI: The Payoff
+While there is initially a big learning curve for Semantic UI the payoff is actually quite amazing. Semantic UI allows almost perfect recreation 
