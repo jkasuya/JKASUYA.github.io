@@ -37,7 +37,7 @@ Despite all of the struggles and while there is initially a big learning curve f
   <img class="ui image" src="../images/Remade.PNG">
 </div>
 
-The Original is the top image, and the remade is the bottom. I had not yet learned how to insert animations into an html document yet, which is why there is no theme on the remade page. Otherwise the products look quite similar and it is impressive how Semantic UI allows the user to almost perfectly recreate other webpages. All of the icons in the remade version are from Semantic UI's icon library, and creating different containers that were fluid allowed me to balance out the webpage as fit. 
+The original is the top image, and the remade is the bottom. I had not yet learned how to insert animations into an html document yet, which is why there is no theme on the remade page. Otherwise the products look quite similar and it is impressive how Semantic UI allows the user to almost perfectly recreate other webpages. All of the icons in the remade version are from Semantic UI's icon library, and creating different containers that were fluid allowed me to balance out the webpage as fit. 
 
 
 ## Semantic UI: The Verdict
