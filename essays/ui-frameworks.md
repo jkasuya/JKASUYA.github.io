@@ -25,5 +25,18 @@ The biggest challenge, however, comes from having to learn the keywords and what
 
 There are many other class names that are similar to this. For example, one can add the keyword "fluid" to the above class to create a container that would encompass the entire page. Also, one could create a custom subclass that could then be styled using CSS. Luckily, Semantic UI has a website that gives the source code that can be used to implement all of its features. This is very helpful when trying to find the specific function that Semantic UI has to offer.
 
+One other struggle that comes with UI Framework design comes with styling and formatting all the elements using CSS. The spaces rule (differentiating between .classA.classB and .classA .classB) tripped me up when it came to changing the color of fonts. Also just getting used to the whole styling using CSS format 
+
 ## Semantic UI: The Payoff
-While there is initially a big learning curve for Semantic UI the payoff is actually quite amazing. Semantic UI allows almost perfect recreation 
+While there is initially a big learning curve for Semantic UI the payoff is actually quite amazing. Semantic UI allows almost perfect recreation of many websites. For example, I was able to recreate the UI of Google.
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Original.png">
+  <img class="ui image" src="../images/Remade.png">
+</div>
+
+The Original page is on the left, and the remade page is on the right. I had not yet learned how to insert animations into an html document yet, which is why there is no theme on the remade page. However, otherwise the products look very similar and it is very impressive how Semantic UI allows the user to almost perfectly recreate very nice and user-friendly webpages. 
+
+
+
+
