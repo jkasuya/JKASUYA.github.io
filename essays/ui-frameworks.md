@@ -30,9 +30,9 @@ One other struggle that comes with UI Framework design comes with styling and fo
 ## Semantic UI: The Payoff
 While there is initially a big learning curve for Semantic UI the payoff is actually quite amazing. Semantic UI allows almost perfect recreation of many websites. For example, I was able to recreate the UI of Google.
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/Original.png">
-  <img class="ui image" src="../images/Remade.png">
+<div class="ui rounded images">
+  <img class="ui image" src="../images/Original.PNG">
+  <img class="ui image" src="../images/Remade.PNG">
 </div>
 
 The Original page is on the left, and the remade page is on the right. I had not yet learned how to insert animations into an html document yet, which is why there is no theme on the remade page. However, otherwise the products look very similar and it is very impressive how Semantic UI allows the user to almost perfectly recreate very nice and user-friendly webpages. 
