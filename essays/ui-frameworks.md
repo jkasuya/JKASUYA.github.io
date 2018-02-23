@@ -11,7 +11,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui centered image" src="../images/SemanticUI.PNG">
+<img class="ui middle image" src="../images/SemanticUI.PNG">
 
 ## HTML and UI Frameworks: An Introduction
 One of my biggest dreams and aspirations for my computer science degree was to learn how to build a website. However, I never had any prior experience building a website before. When I found out in my Software Engineering class that we were going to learn HTML and CSS I was thrilled. I always wanted to build a highly functional website that looked visually appealing. Semantic UI helps me to fulfill that goal. With the use of certain keywords (such as icon or menu), Semantic UI provides an easy and fresh way to implement HTML UI Frameworks in a way that it almost feels like cheating.
