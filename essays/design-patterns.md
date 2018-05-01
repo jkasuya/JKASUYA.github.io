@@ -13,4 +13,4 @@ On my first day of second grade, my teacher comes in and sits at her desk. She i
 
 A ninja, defined by many sources, is a not just a master of ninjitsu, they are a master in a certain skill or activity. Like a ninja, a beginner programmer's greatest tool are design patterns! Design patterns aren't just implementations to creatively maneuver around common problems. It shows the interactions between the back-end and front-end of programming. Normally, when programmers first start, they are taught the back-end of programming. Throughout their studies they will eventually learn the front-end side, like user interfaces, web design, etc. and become proficient ninjas of design patterns.
 
-
+One of my 
