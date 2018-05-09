@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Introduction.PNG
+image: images/Introduction.png
 title: Washer Watcher
 permalink: 
 # All dates must be YYYY-MM-DD format!
