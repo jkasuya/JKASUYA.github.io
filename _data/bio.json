@@ -6,9 +6,9 @@
     "email": "jkasuya@hawaii.edu",
     "phone": "",
     "website": "https://jkasuya.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
-      "address": "",
+      "address": "1680 East-West Road",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "cyber security",
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
     {
-      "name": "networking",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Networking",
       "keywords": [
       ]
     }
