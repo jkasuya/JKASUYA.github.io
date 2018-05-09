@@ -26,5 +26,5 @@ This was the first project that I worked on that was "real-world leveled" and fo
 
 My individual role on this project was mainly to get the homepage made and get the styling to be just right so that users would be greeted with a pretty, yet informative page. While I didn't specifically work on any of the back-end programming aspects of this application, I did fix some bugs/typos here and there. I was also responsible for getting people to test out the app and compiling their feedback to help us improve the app. Finally, I deployed the final version of the app here. This link was created specifically for the ICS 314 Spring 2018 semester, so it may or may not work currently. If you would like more information on the Washer Watcher application, you may click the link below for the organization home page.
 
-Source: <a href="https://washerwatcher.github.io/"><i class="large github icon "></i>Washer Watcher Home Page</a>
+Washer Watcher Organization Home Page: <a href="https://washerwatcher.github.io/"><i class="large github icon "></i>Washer Watcher Home Page</a>
 
