@@ -73,8 +73,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2021)",
-      "studyType": "B.S., Information and Computer Sciences",
+      "area": "Computer Science (expected Fall, 2020)",
+      "studyType": "B.S.",
       "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "3.93",
@@ -82,6 +82,7 @@
         "ICS 111: Introduction to Computer Science I (Java)",
         "ICS 141: Discrete Mathematics for Computer Science I",
         "ICS 211: Introduction to Computer Science II (Java)",
+        "ICS 212: Program Structure (C, C++)",
         "ICS 241: Discrete Mathematics for Computer Science II",
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering I",
