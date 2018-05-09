@@ -14,10 +14,10 @@ labels:
 <img class="ui centered image" src="../images/SemanticUI.PNG">
 
 ## HTML and UI Frameworks: An Introduction
-One of my biggest dreams and aspirations for my computer science degree was to learn how to build a highly functional and visually appealing website. However, I never had any prior experience building one. When I found out in my Software Engineering class that we were going to learn HTML and CSS I was thrilled. With UI Frameworks such as Semantic UI it helps me to fulfill that goal, with the use of certain keywords (such as icon or menu), providing an easy and fresh way to implement HTML UI Frameworks in a way that it almost feels like cheating.
+One of my biggest dreams and aspirations for my computer science degree was to learn how to build a highly functional and visually appealing website to help someone or something. However, I never had any prior experience building one. When I found out in my Software Engineering class that we were going to learn HTML and CSS I was thrilled. UI Frameworks such as Semantic UI helps me to fulfill that goal as with the use of certain keywords (such as icon or menu), it gives easy access to providing a very attractive and appealing website without having to do much styling at all.
 
 ## Semantic UI: The Struggle
-Semantic UI gives so many different options to make a website more user-friendly. It allows you to add menus, dropdown items, containers for formatting, and even common icons. However it does not come without its share of struggles. Because one has to first implement the class libraries it can be easy to forget, especially if previous projects have used it. Personally for one of my class assignments I couldn't figure out why nothing was loading before I realized I had forgot to implement the library.
+Semantic UI gives so many different options to make a website more user-friendly and appealing. It allows you to add menus, dropdown items, containers for formatting, and even common icons. However it does not come without its share of struggles. Because one has to first implement the class libraries it can be easy to forget, especially if previous projects have used it. Personally for one of my class assignments I couldn't figure out why nothing was loading before I realized I had forgot to implement the library.
 
 The biggest challenge comes from having to learn the keywords and what each keyword means. For example, to add a container in the html file one would have to code:
 
