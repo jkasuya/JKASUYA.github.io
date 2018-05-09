@@ -18,7 +18,7 @@ summary: A web app to help the students of the UH Manoa dorms know when a washer
 
 Washer Watcher was an app that I created with a team for my ICS 314 Software Engineering 1 Class. This app was based on a very tough issue for students living in the UH Manoa dorms. As there are only around 3-4 washers per dorm, there are many moments when a student would attempt to do their laundry, only to find that all of the washers were taken. Washer Watcher attempts to alleviate this problem for students, providing them a user-friendly app to view the availability of washers in their dorm, as well as any notes or problems that other users have faced. Any notes or updates would be timestamped so users would know the reliability of the information provided. For example, here is the UI for one of the dorms.
 
-<div class="ui rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/UpdatedAvailability.PNG">
 </div>
 
